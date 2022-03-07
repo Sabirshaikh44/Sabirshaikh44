@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sabirshaikh44
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a FullStack WebDeveloper,
 - 💞️ I’m looking to collaborate on Web Development,etc
 - 📫 How to reach me mail me,:)
 
